@@ -1,0 +1,1 @@
+This program was written using a single prompt on Gemini; it is very simple, and the chance of validity is extremely low because it generates random codes—you might get lucky, but it is highly unlikely. The program is fully accessible, with no anti-tamper mechanisms or code obfuscation, so anyone with the right skills could write an auto-checker for these codes.
